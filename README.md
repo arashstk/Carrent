@@ -1,3 +1,3 @@
-Car rent project
+Car rent project.
 This is a project for Chas Academy. 
-I have used WAMP64 and MYSQL
+I have used WAMP64 and MYSQL.
